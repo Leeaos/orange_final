@@ -81,7 +81,7 @@ export default {};
   width: 2.14rem;
   height: 3rem;
   border-radius: 8px;
-  background: lightblue;
+  background: rgb(190, 207, 115);
   display: inline-block;
 
 }

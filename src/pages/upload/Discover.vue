@@ -3,10 +3,10 @@
     <router-view></router-view>
      
     <router-link class="hand" to="/discover/hand">
-
+            <span>手账</span>
     </router-link>
     <router-link  class="wallpaper" to="/discover/wallpaper">
-
+            <span>壁纸</span>
     </router-link>
     <router-link  class="goback" to="/Home">返回  </router-link>
 </div>
@@ -16,7 +16,7 @@
 export default {};
 </script>
 
-<style  scoped >
+<style  lang="scss"scoped >
 #discover {
   background: #fff;
   z-index: 10;
@@ -24,6 +24,11 @@ export default {};
   position: absolute;
 }
 .hand {
+  span{
+    display: block;
+    height: 3.333333rem;
+    line-height: 3.333333rem;
+  }
   left: 0.293333rem;
   top: 10rem;
   width: 3.333333rem;
@@ -40,6 +45,11 @@ export default {};
   display: block;
 }
 .wallpaper {
+    span{
+    display: block;
+    height: 3.333333rem;
+    line-height: 3.333333rem;
+  }
   left: 6.066667rem;
   top: 6.733333rem;
   width: 3.333333rem;

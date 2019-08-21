@@ -25,21 +25,6 @@ export default {
     components:{
 
     },
-    // computed:{
-    //     ...mapState({
-    //         homeListData:state=>state.home.homeListData
-    //     })
-    // },
-    // methods:{
-    //     //请求首页的初始化数据
-    //     getHomeInitialData(){
-    //         //列表
-    //         this.$store.dispatch('home/requestHomeListData')
-    //     }
-    // },
-    // created(){
-    //     this.getHomeInitialData();
-    // }
 }
 </script>
 

@@ -6,7 +6,7 @@
         </div>
         <app-scroll class="follow-scroll">
             <li>
-                <img src="/img/home.png" alt="">
+                <img src="/img/upload.png" alt="">
                 <div>
                     <p class="follow-name">xxx</p>
                     <p class="follow-autograph">xxxx</p>

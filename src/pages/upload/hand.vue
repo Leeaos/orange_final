@@ -11,7 +11,7 @@
         <div class="heade-list">
                 <li class="heade-img" v-for="item in 50" :key="item">
                   <span class="heade-item" > {{item}}</span> 
-                  <span class="heade-list-title">4646</span>
+                  <span class="heade-list-title">精美手账</span>
                    
             </li>
         </div>
@@ -30,14 +30,14 @@ export default {};
   overflow: hidden;
   background: #fff;
   height: 100%;
-  z-index: 10；;
+  z-index: 10;
 }
 .hand-scroll {
   position: absolute;
   left: 0;
   right: 0;
   bottom: 0;
-  top: 1.2rem;
+  top: 1.173333rem;
 }
 
 .heade {
@@ -79,7 +79,7 @@ export default {};
   width: 3rem;
   height: 4rem;
   border-radius: 8px;
-  background: lightblue;
+  background: rgb(190, 207, 115);
   display: block;
 }
 .heade-list-title {

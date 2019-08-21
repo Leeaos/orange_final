@@ -19,10 +19,10 @@ export default {
     data(){
         return{
             handData:[
-                {id:1,url:'/img/home.png'},
-                {id:2,url:'/img/home.png'},
-                {id:3,url:'/img/home.png'},
-                {id:4,url:'/img/home.png'}
+                {id:1,url:'/img/upload.png'},
+                {id:2,url:'/img/upload.png'},
+                {id:3,url:'/img/upload.png'},
+                {id:4,url:'/img/upload.png'}
             ]
         }
     }
