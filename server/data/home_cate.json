@@ -1,0 +1,72 @@
+[
+  {
+    "schemeUrl": "https://m.you.163.com/item/newItem",
+    "picUrl": "https://yanxuan.nosdn.127.net/c6fd8835a6400b7da7a016ad85506b69.png",
+    "text": "新品首发",
+    "textColor": "333333",
+    "sequen": 0
+  },
+  {
+    "schemeUrl": "https://m.you.163.com/item/list?categoryId=1005000&style=pd",
+    "picUrl": "https://yanxuan.nosdn.127.net/fede8b110c502ec5799702d5ec824792.png",
+    "text": "居家生活",
+    "textColor": "333333",
+    "sequen": 1
+  },
+  {
+    "schemeUrl": "https://m.you.163.com/item/list?categoryId=1010000&style=pd",
+    "picUrl": "https://yanxuan.nosdn.127.net/2415a74cea7d3f080c2dcaa791884572.png",
+    "text": "服饰鞋包",
+    "textColor": "333333",
+    "sequen": 2
+  },
+  {
+    "schemeUrl": "https://m.you.163.com/item/list?categoryId=1005002&style=pd",
+    "picUrl": "https://yanxuan.nosdn.127.net/d916591adea776351e084016335e5820.png",
+    "text": "美食酒水",
+    "textColor": "333333",
+    "sequen": 3
+  },
+  {
+    "schemeUrl": "https://m.you.163.com/item/list?categoryId=1013001&style=pd",
+    "picUrl": "https://yanxuan.nosdn.127.net/6c3bd9d885c818b1f73e497335a68b47.png",
+    "text": "个护清洁",
+    "textColor": "333333",
+    "sequen": 4
+  },
+  {
+    "schemeUrl": "https://m.you.163.com/item/list?categoryId=1011000&style=pd",
+    "picUrl": "https://yanxuan.nosdn.127.net/559d2a240ec20b096590a902217009ff.png",
+    "text": "母婴亲子",
+    "textColor": "333333",
+    "sequen": 5
+  },
+  {
+    "schemeUrl": "https://m.you.163.com/item/list?categoryId=109243029&style=pd",
+    "picUrl": "https://yanxuan.nosdn.127.net/5c088559ebcc3f0ffcda663f04dfbeb2.png",
+    "text": "运动旅行",
+    "textColor": "333333",
+    "sequen": 6
+  },
+  {
+    "schemeUrl": "https://m.you.163.com/item/list?categoryId=1043000&style=pd",
+    "picUrl": "https://yanxuan.nosdn.127.net/fbca8e1f2948f0c09fc7672c2c125384.png",
+    "text": "数码家电",
+    "textColor": "333333",
+    "sequen": 7
+  },
+  {
+    "schemeUrl": "https://m.you.163.com/item/list?categoryId=1019000&style=pd",
+    "picUrl": "https://yanxuan.nosdn.127.net/f7281169d4e82d5d8d52aa1fec83fe01.png",
+    "text": "全球特色",
+    "textColor": "333333",
+    "sequen": 8
+  },
+  {
+    "schemeUrl": "https://m.you.163.com/supermc/index",
+    "picUrl": "https://yanxuan.nosdn.127.net/3954c3cbeb4359dd7007be7a076e0dda.gif",
+    "text": "超级会员",
+    "textColor": "333333",
+    "sequen": 9
+  }
+]

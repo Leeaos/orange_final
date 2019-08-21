@@ -1,0 +1,46 @@
+[{
+    "activityPrice": 379,
+    "primaryPicUrl": "http://yanxuan.nosdn.127.net/abbbdc93c5646d7dfdcdeb4a5297cf90.png",
+    "nextStartTime": 1564192800000,
+    "itemList": [{
+        "itemId": 1076010,
+        "picUrl": "http://yanxuan.nosdn.127.net/abbbdc93c5646d7dfdcdeb4a5297cf90.png",
+        "activityPrice": 379,
+        "originPrice": 459,
+        "showPicUrl": "http://yanxuan.nosdn.127.net/838f3d6c83de39019f1a127a3a11f499.png"
+    }, {
+        "itemId": 1505052,
+        "picUrl": "http://yanxuan.nosdn.127.net/699fbcae23ca588c7879bc29b2389d45.png",
+        "activityPrice": 48,
+        "originPrice": 58,
+        "showPicUrl": "http://yanxuan.nosdn.127.net/d2439f2ada856b686ce3c3bd916b3665.png"
+    }, {
+        "itemId": 3479008,
+        "picUrl": "http://yanxuan.nosdn.127.net/c9a023fc1f45764eceda347d4d12be9f.png",
+        "activityPrice": 3439,
+        "originPrice": 4299,
+        "showPicUrl": "http://yanxuan.nosdn.127.net/2a3dd3df60b2e20eb02e9b9f8ba0f994.png"
+    }, {
+        "itemId": 3804006,
+        "picUrl": "http://yanxuan.nosdn.127.net/55793ff7a0b3eb47b4b562cabd1670d9.png",
+        "activityPrice": 151,
+        "originPrice": 189,
+        "showPicUrl": "http://yanxuan.nosdn.127.net/f6116ce57c2173e4775d3c902cfb0d4b.png"
+    }, {
+        "itemId": 1674018,
+        "picUrl": "https://yanxuan.nosdn.127.net/737ac9862e27638b3c0ffec8a7839d6d.png",
+        "activityPrice": 351,
+        "originPrice": 369,
+        "showPicUrl": "http://yanxuan.nosdn.127.net/57b8e0a18e58b877811c00a641e0c42f.png"
+    }, {
+        "itemId": 1006082,
+        "picUrl": "http://yanxuan.nosdn.127.net/59c187c6313e1e7796d49335ec14fbb7.png",
+        "activityPrice": 42.8,
+        "originPrice": 52,
+        "showPicUrl": "http://yanxuan.nosdn.127.net/f8ab1da43385ce39549272c1571f6397.png"
+    }],
+    "remainTime": 2045995,
+    "showFlash": true,
+    "flashSaleScreenId": 115070003,
+    "originPrice": 459
+}]

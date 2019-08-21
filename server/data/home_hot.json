@@ -1,0 +1,63 @@
+[
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/4505b681a9dbabb1aee6b7ea0922b96c.png",
+        "categoryName": "热销榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank",
+        "showPicUrl": "https://yanxuan.nosdn.127.net/4505b681a9dbabb1aee6b7ea0922b96c.png",
+        "modelType": 5
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/431510a9fe9bb954d8f9df705c7324d7.png",
+        "categoryName": "好评榜",
+        "targetUrl": "https://m.you.163.com/item/praiseRank",
+        "showPicUrl": "https://yanxuan.nosdn.127.net/431510a9fe9bb954d8f9df705c7324d7.png"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/c0b3d87a8066b33c68294ce60f8e1920.png",
+        "categoryName": "居家生活榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1005000",
+        "showPicUrl": "https://yanxuan.nosdn.127.net/c0b3d87a8066b33c68294ce60f8e1920.png"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/9cdae54c3c2434ed1f6f2fa6d5fa270d.png",
+        "categoryName": "美食酒水榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1005002",
+        "showPicUrl": "https://yanxuan.nosdn.127.net/9cdae54c3c2434ed1f6f2fa6d5fa270d.png"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/445689c4faa55f8186c500e68bff73d6.png",
+        "categoryName": "服饰鞋包榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1010000",
+        "showPicUrl": "https://yanxuan.nosdn.127.net/445689c4faa55f8186c500e68bff73d6.png"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/7c230892d2958d2c6a777acd9d2d4f95.png",
+        "categoryName": "个护清洁榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1013001",
+        "showPicUrl": "https://yanxuan.nosdn.127.net/7c230892d2958d2c6a777acd9d2d4f95.png"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/e5474a8f4fd5748079e2ba2ead806b51.png",
+        "categoryName": "数码家电榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1043000",
+        "showPicUrl": "https://yanxuan.nosdn.127.net/e5474a8f4fd5748079e2ba2ead806b51.png"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/63967eb40b0af505f1fd066442952bab.png",
+        "categoryName": "运动旅行榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=109243029",
+        "showPicUrl": "https://yanxuan.nosdn.127.net/63967eb40b0af505f1fd066442952bab.png"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/f444ac11115a8249a92dc95dccad6e07.png",
+        "categoryName": "母婴亲子榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1011000",
+        "showPicUrl": "https://yanxuan.nosdn.127.net/f444ac11115a8249a92dc95dccad6e07.png"
+    },
+    {
+        "picUrl": "https://yanxuan.nosdn.127.net/cbacc8b2a7bab6a559f293ea2b3d045c.png",
+        "categoryName": "全球特色榜",
+        "targetUrl": "https://m.you.163.com/item/saleRank?categoryId=1019000",
+        "showPicUrl": "https://yanxuan.nosdn.127.net/cbacc8b2a7bab6a559f293ea2b3d045c.png"
+    }
+]

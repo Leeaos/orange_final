@@ -1,0 +1,178 @@
+[
+  {
+    "picUrl": "https://yanxuan.nosdn.127.net/8d2af3ab55bf51d5ac03e5d9c6fa1fc4.jpg",
+    "expireTime": 0,
+    "extra": {
+      "materialName": "特惠榜",
+      "rcmdSort": false,
+      "taskType": 1,
+      "itemFrom": 0,
+      "crmUserGroupName": "",
+      "resourcesId": 1,
+      "materialType": "广告banner",
+      "crmUserGroupId": "0",
+      "materialId": "54629036",
+      "operator": "胡喜媛",
+      "taskId": "54630715"
+    },
+    "name": "特惠榜",
+    "onlineTime": 0,
+    "id": 54629036,
+    "originSchemeUrl": "https://m.you.163.com/item/preferentiRank",
+    "targetUrl": "https://m.you.163.com/item/preferentiRank"
+  },
+  {
+    "picUrl": "https://yanxuan.nosdn.127.net/5a8fdfaa42b384309a0e7425305fabed.jpg",
+    "expireTime": 0,
+    "extra": {
+      "materialName": "9.9元专区-蓝色",
+      "rcmdSort": false,
+      "taskType": 1,
+      "itemFrom": 0,
+      "crmUserGroupName": "",
+      "resourcesId": 2,
+      "materialType": "广告banner",
+      "crmUserGroupId": "0",
+      "materialId": "54629220",
+      "operator": "李雪",
+      "taskId": "54630564"
+    },
+    "name": "9.9元专区-蓝色",
+    "onlineTime": 0,
+    "id": 54629220,
+    "originSchemeUrl": "https://m.you.163.com/topic/v1/pub/Pew1KBH9Au.html",
+    "targetUrl": "https://m.you.163.com/topic/v1/pub/Pew1KBH9Au.html"
+  },
+  {
+    "picUrl": "https://yanxuan.nosdn.127.net/51a6e81d95eb24b75f5eb7a435ce28e2.jpg",
+    "expireTime": 0,
+    "extra": {
+      "materialName": "7.17-7.27爱吃福利站V2",
+      "rcmdSort": false,
+      "taskType": 1,
+      "itemFrom": 0,
+      "crmUserGroupName": "",
+      "resourcesId": 3,
+      "materialType": "广告banner",
+      "crmUserGroupId": "0",
+      "materialId": "54629325",
+      "operator": "李雪",
+      "taskId": "54630776"
+    },
+    "name": "7.17-7.27爱吃福利站V2",
+    "onlineTime": 0,
+    "id": 54629325,
+    "originSchemeUrl": "https://act.you.163.com/act/pub/cwruDmq4vq.html",
+    "targetUrl": "https://act.you.163.com/act/pub/cwruDmq4vq.html"
+  },
+  {
+    "picUrl": "https://yanxuan.nosdn.127.net/06bb8085777974f03ab322c781a8a789.jpg",
+    "expireTime": 0,
+    "extra": {
+      "materialName": "洗护周年庆V2 -7.20-7.26",
+      "rcmdSort": false,
+      "taskType": 1,
+      "itemFrom": 0,
+      "crmUserGroupName": "",
+      "resourcesId": 4,
+      "materialType": "广告banner",
+      "crmUserGroupId": "0",
+      "materialId": "54629323",
+      "operator": "李雪",
+      "taskId": "54630785"
+    },
+    "name": "洗护周年庆V2 -7.20-7.26",
+    "onlineTime": 0,
+    "id": 54629323,
+    "originSchemeUrl": "https://act.you.163.com/act/pub/exzImZIorM.html",
+    "targetUrl": "https://act.you.163.com/act/pub/exzImZIorM.html"
+  },
+  {
+    "picUrl": "https://yanxuan.nosdn.127.net/a9827ac1ad9c54b31cda1debf38c3414.jpg",
+    "expireTime": 0,
+    "extra": {
+      "materialName": "专题 50元以内好物-长期",
+      "rcmdSort": false,
+      "taskType": 1,
+      "itemFrom": 0,
+      "crmUserGroupName": "",
+      "resourcesId": 5,
+      "materialType": "广告banner",
+      "crmUserGroupId": "0",
+      "materialId": "54628724",
+      "operator": "胡喜媛",
+      "taskId": "54630781"
+    },
+    "name": "专题 50元以内好物-长期",
+    "onlineTime": 0,
+    "id": 54628724,
+    "originSchemeUrl": "https://m.you.163.com/topic/v1/pub/MfgkRvKeVp.html",
+    "targetUrl": "https://m.you.163.com/topic/v1/pub/MfgkRvKeVp.html"
+  },
+  {
+    "picUrl": "https://yanxuan.nosdn.127.net/b7166c2fbec78249efab080825999871.jpg",
+    "expireTime": 0,
+    "extra": {
+      "materialName": "奥莱V2 -7.21~7.31",
+      "rcmdSort": false,
+      "taskType": 1,
+      "itemFrom": 0,
+      "crmUserGroupName": "",
+      "resourcesId": 6,
+      "materialType": "广告banner",
+      "crmUserGroupId": "0",
+      "materialId": "54629322",
+      "operator": "李雪",
+      "taskId": "54630783"
+    },
+    "name": "奥莱V2 -7.21~7.31",
+    "onlineTime": 0,
+    "id": 54629322,
+    "originSchemeUrl": "https://act.you.163.com/act/pub/gNZffnTyFn.html",
+    "targetUrl": "https://act.you.163.com/act/pub/gNZffnTyFn.html"
+  },
+  {
+    "picUrl": "https://yanxuan.nosdn.127.net/a69df37e0a89394ad0b8947de399da2c.jpg",
+    "expireTime": 0,
+    "extra": {
+      "materialName": "商导-三伏天",
+      "rcmdSort": false,
+      "taskType": 1,
+      "itemFrom": 0,
+      "crmUserGroupName": "",
+      "resourcesId": 7,
+      "materialType": "广告banner",
+      "crmUserGroupId": "0",
+      "materialId": "54628894",
+      "operator": "李雪",
+      "taskId": "54630720"
+    },
+    "name": "商导-三伏天",
+    "onlineTime": 0,
+    "id": 54628894,
+    "originSchemeUrl": "https://you.163.com/act/pub/wHkG9l3LK2oi.html",
+    "targetUrl": "https://you.163.com/act/pub/wHkG9l3LK2oi.html"
+  },
+  {
+    "picUrl": "https://yanxuan.nosdn.127.net/4e856d2116c6992c827b06d65a74bd74.jpg",
+    "expireTime": 0,
+    "extra": {
+      "materialName": "赋活原液-7.24",
+      "rcmdSort": false,
+      "taskType": 1,
+      "itemFrom": 0,
+      "crmUserGroupName": "",
+      "resourcesId": 8,
+      "materialType": "广告banner",
+      "crmUserGroupId": "0",
+      "materialId": "54629265",
+      "operator": "李雪",
+      "taskId": "54630848"
+    },
+    "name": "赋活原液-7.24",
+    "onlineTime": 0,
+    "id": 54629265,
+    "originSchemeUrl": "https://m.you.163.com/item/detail?id=3438006",
+    "targetUrl": "https://m.you.163.com/item/detail?id=3438006"
+  }
+]

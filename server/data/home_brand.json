@@ -1,0 +1,90 @@
+[
+  {
+    "floorPrice": 9.9,
+    "picUrl": "https://yanxuan.nosdn.127.net/74e2ea8f81004d0a60f90fc8e4649058.png",
+    "newOnShelf": true,
+    "webIndexVerticalPicUrl": "https://yanxuan.nosdn.127.net/74e2ea8f81004d0a60f90fc8e4649058.png",
+    "extra": {
+      "materialName": "海外制造商",
+      "rcmdSort": false,
+      "taskType": 1,
+      "itemFrom": 0,
+      "crmUserGroupName": "",
+      "resourcesId": 1,
+      "materialType": "制造商id",
+      "crmUserGroupId": "0",
+      "materialId": "45253056",
+      "taskId": "54629269"
+    },
+    "simpleDesc": "严选海外团队，寻访日韩欧美等十几个国家，\n从打样到成型，把关数十道工序，\n只为给您带来海外直供的超值好物。",
+    "name": "海外制造商",
+    "appListPicUrl": "https://yanxuan.nosdn.127.net/f474cbb97dc23e3a6af6255bc3baa7fc.jpg",
+    "id": 1080000
+  },
+  {
+    "floorPrice": 29.9,
+    "picUrl": "https://yanxuan.nosdn.127.net/c097be14110f769d58245cdad73e15c3.png",
+    "newOnShelf": false,
+    "webIndexVerticalPicUrl": "https://yanxuan.nosdn.127.net/c097be14110f769d58245cdad73e15c3.png",
+    "extra": {
+      "materialName": "CK制造商",
+      "rcmdSort": false,
+      "taskType": 1,
+      "itemFrom": 0,
+      "crmUserGroupName": "无分组",
+      "resourcesId": 2,
+      "materialType": "制造商id",
+      "crmUserGroupId": "0",
+      "materialId": "45253058",
+      "taskId": "54629270"
+    },
+    "simpleDesc": "严选寻访Calvin Klein品牌的制造商，\n深入世界领带第一生产地，设计与品质并重，\n致力于给消费者带来优质典雅的服饰用品。",
+    "name": "CK制造商",
+    "appListPicUrl": "https://yanxuan.nosdn.127.net/61f5523c9988ae6720da4c3c81a37386.jpg",
+    "id": 1026000
+  },
+  {
+    "floorPrice": 169,
+    "picUrl": "https://yanxuan.nosdn.127.net/66a23d776f41cba70d00803a5231124b.png",
+    "newOnShelf": false,
+    "webIndexVerticalPicUrl": "https://yanxuan.nosdn.127.net/66a23d776f41cba70d00803a5231124b.png",
+    "extra": {
+      "materialName": "新秀丽制造商",
+      "rcmdSort": false,
+      "taskType": 1,
+      "itemFrom": 0,
+      "crmUserGroupName": "无分组",
+      "resourcesId": 3,
+      "materialType": "制造商id",
+      "crmUserGroupId": "0",
+      "materialId": "45253060",
+      "taskId": "54629271"
+    },
+    "simpleDesc": "严选为制作品质与颜值兼具的箱包，\n选定新秀丽、CK、Ricardo等品牌合作的制造商，\n拥有国内先进流水线20余条，实力保障品质。",
+    "name": "新秀丽制造商",
+    "appListPicUrl": "https://yanxuan.nosdn.127.net/42f994296d3393bcb4d54b7db13db5eb.png",
+    "id": 1001037
+  },
+  {
+    "floorPrice": 219,
+    "picUrl": "https://yanxuan.nosdn.127.net/3bf5a8a2f6eef284ecb40806ae9ce043.png",
+    "newOnShelf": false,
+    "webIndexVerticalPicUrl": "https://yanxuan.nosdn.127.net/3bf5a8a2f6eef284ecb40806ae9ce043.png",
+    "extra": {
+      "materialName": "Nine West制造商",
+      "rcmdSort": false,
+      "taskType": 1,
+      "itemFrom": 0,
+      "crmUserGroupName": "无分组",
+      "resourcesId": 4,
+      "materialType": "制造商id",
+      "crmUserGroupId": "0",
+      "materialId": "45253062",
+      "taskId": "54629272"
+    },
+    "simpleDesc": "为打造一双优雅舒适的高跟鞋，\n严选选择美国Nine West玖熙品牌的制造商，\n让美丽绽放在足尖。",
+    "name": "Nine West制造商",
+    "appListPicUrl": "https://yanxuan.nosdn.127.net/f023a22559b81374d3bd5cb563b9af0b.png",
+    "id": 1038001
+  }
+]
